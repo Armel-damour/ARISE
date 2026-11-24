@@ -2,7 +2,6 @@
 
 Defeat mythological monsters, extract their shadows, and build an army that follows you forever. A 2D browser game: no install, no dependencies.
 
-**▶ Play:** https://YOUR-USERNAME.github.io/YOUR-REPO/
 
 ## Features
 
